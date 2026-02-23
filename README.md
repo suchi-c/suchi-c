@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suchitha H S</h1>
-<h3 align="center">PHP Laravel Developer | Backend Engineer | Software Engineering Student</h3>
+<h3 align="center">PHP Laravel Developer |Frontend and Backend Engineer </h3>
 
 ---
 
