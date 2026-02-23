@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suchitha H S</h1>
-<h3 align="center">PHP Laravel Developer |Frontend and Backend Engineer </h3>
+<h3 align="center">PHP Laravel Developer | Frontend and Backend Engineer </h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - 💻 Currently working as a **PHP Laravel Developer**
 - 🏫 Building scalable backend systems for **School ERP (Nexsti)**
 - 🏥 Previously worked on a **Healthcare Management Portal (Aarogya Sampark)**
-- 🗄️ Strong focus on backend development, REST APIs & database optimization
+- 🗄️ Strong focus on backend development & database optimization
 - 🌱 Continuously learning system design & scalable architectures
 - ⚡ I enjoy turning real-world problems into structured backend solutions
 
@@ -38,7 +38,6 @@
 - PHP
 - Laravel
 - MySQL
-- REST APIs
 - Authentication & Authorization
 - Database Design & Query Optimization
 
