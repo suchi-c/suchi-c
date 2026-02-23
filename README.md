@@ -73,12 +73,6 @@
 
 ---
 
-## 📌 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchi-c&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="left">
@@ -88,5 +82,3 @@
 
 ---
 
-## 🧠 Engineering Philosophy
-> "Strong backend systems are invisible — but they power everything."
