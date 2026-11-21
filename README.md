@@ -1,34 +1,43 @@
 <h1 align="center">Hi 👋, I'm Suchitha H S</h1>
-<h3 align="center">PHP Laravel Developer | Frontend and Backend Engineer </h3>
+<h3 align="center">Full-Stack Developer | Frontend and Backend Engineer </h3>
 
 ---
 
 ## 🚀 About Me
-- 💻 Currently working as a **PHP Laravel Developer**
-- 🏫 Building scalable backend systems for **School ERP (Nexsti)**
-- 🏥 Previously worked on a **Healthcare Management Portal (Aarogya Sampark)**
-- 🗄️ Strong focus on backend development & database optimization
-- 🌱 Continuously learning system design & scalable architectures
-- ⚡ I enjoy turning real-world problems into structured backend solutions
+- 💻 Full-Stack Developer at **Flione Innovation & Technologies** (Aug 2025 – Present)
+- 🏫 Building the backend and APIs for **Nexsti School ERP** (PHP Laravel, MySQL)
+- 🏥 Previously a Frontend Intern on **Aarogya Sampark**, a live healthcare management portal
+- 🗄️ Focus on REST API development, database design and query optimization
+- 🎓 MCA, St. Aloysius Institute of Management and IT, Mangalore (2025)
+- 🌱 Currently learning system design, scalable architecture and building AI apps with LLMs and RAG
+- ⚡ I enjoy turning real-world problems into structured, working solutions
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 PHP Laravel Developer – Flione Innovation & Technologies
-- Working on **Nexsti – School ERP System**
-- Developing and maintaining modules like:
-  - Student Management
-  - Attendance System
-  - Notifications
-  - Role-Based Access Control
-- Designing RESTful APIs & optimizing SQL queries
-- Working on multi-tenant architecture & performance improvements
+### 🏢 Full-Stack Developer – Flione Innovation & Technologies
+*Aug 2025 – Present · Bengaluru*
 
-### 🏥 Frontend Intern – IR Infotech
-- Contributed to **Aarogya Sampark – Healthcare Portal**
-- Worked on appointment booking & diagnostic scheduling modules
-- Collaborated in building scalable admin & user dashboards
+**Nexsti – School ERP Platform** (PHP Laravel, MySQL)
+- Built 6+ core modules for dedicated and centralized school ERP systems: student records, attendance, push notifications and role-based access control
+- Developed and maintained 20+ REST APIs serving 4 client apps (Admin Dashboard, Teacher, Parent and Driver) for 1,000+ users
+- Optimized MySQL schema and queries, cutting average response time by ~45% across 10+ tables
+- Deployed and maintained apps on cPanel with zero downtime across 3+ client deployments
+
+**Other projects at Flione**
+- **Biometric Attendance System:** real-time check-ins from a biometric device, saving staff ~2 hours/day
+- **ID Card Generator:** a desktop app (Python, PySide6) for bulk ID card generation with a drag-and-drop editor and 300 DPI PDF export
+- **Starfix:** an agency platform with a custom CMS (Next.js, Prisma, MySQL)
+- **Scenic Avenues:** a luxury real-estate platform with partner and admin dashboards (React, TypeScript, PHP)
+
+### 🏥 Frontend Developer Intern – IR Infotech
+*Mar 2025 – Jul 2025 · Bengaluru*
+
+**Aarogya Sampark – Unified Healthcare Management Portal** (React.js, Next.js, Tailwind CSS)
+- Built 5+ responsive UI modules for appointment booking and diagnostic test scheduling across 3 user roles (patients, doctors, labs)
+- Standardized UI components across role interfaces, reducing layout inconsistencies by ~60%
+- Worked with backend and QA teams to integrate REST APIs and resolved 15+ UI-API integration issues before release
 
 ---
 
@@ -72,19 +81,58 @@
 
 
 ---
+## ⭐ Featured Projects
 
-## 📂 Featured Projects
+### 🏫 Nexsti – School ERP Platform
+A school management platform delivered as dedicated and centralized ERP systems, with Admin, Teacher, Parent and Driver apps.
+- 6+ core modules: student records, attendance, push notifications and role-based access control
+- 20+ REST APIs serving 4 client apps and 1,000+ users
+- MySQL schema and query optimization, ~45% faster average response time
+- **Tech:** PHP Laravel · MySQL · REST APIs · cPanel
+- 🔒 Client project (source is private)
 
-### 📊 Attendance Management System
-- Built using **PHP & MySQL**
-- Role-based authentication (Admin & Teachers)
-- Automated attendance reports
-- Optimized relational database schema
+### 🪪 ID Card Generator – Desktop App
+A Windows desktop application for bulk student ID card generation.
+- Drag-and-drop template editor, multi-step wizard and real-time card preview
+- Custom Pillow rendering engine for 300 DPI output, Excel import, automatic photo-to-student matching and batch PDF export
+- Packaged as a standalone `.exe` with 154 passing tests
+- **Tech:** Python · PySide6 (Qt6) · Pillow · Pandas · ReportLab · PyInstaller
+- 🔗 [Repository](#) *(add link if public)*
 
-### 🛍️ Bloom & Pearls – Online Store
-- Developed using **PHP, HTML, CSS**
-- Product management & order handling
-- Dynamic filtering & performance-optimized queries
+### 🖐️ Biometric Attendance Management System
+A web-based attendance tracker that logs check-ins automatically from a biometric device.
+- Role-based access for admins and staff, secure session handling, 1,000+ student records
+- Real-time logging on ID scan, saving staff ~2 hours per day
+- Optimized SQL queries, ~40% faster data access
+- **Tech:** PHP · MySQL · JavaScript · Biometric integration
+- 🔒 Client project (source is private)
+
+### 🌟 Starfix – Agency/Portfolio Platform
+A portfolio platform with a decoupled animated frontend and a secure admin dashboard.
+- Custom CMS with NextAuth authentication and Tiptap rich-text editing for projects, blog posts and inquiries
+- Type-safe forms with React Hook Form and Zod, and Prisma ORM on a Dockerized MySQL database
+- **Tech:** Next.js · TypeScript · React · Prisma · MySQL · Docker
+- 🔗 [Repository / Live demo](#) *(add link if public)*
+
+### 🏡 Scenic Avenues – Luxury Homes Platform
+A real-estate platform with property listings, a partner portal and an admin dashboard.
+- Admin and partner dashboards with full CRUD, SEO management, partner approvals and lead tracking
+- Secure REST APIs with PDO-based MySQL operations
+- **Tech:** React.js · TypeScript · Tailwind CSS · PHP · MySQL
+- 🔗 [Live demo](#) *(add link if public)*
+
+### 🏥 Aarogya Sampark – Healthcare Management Portal
+A live healthcare portal for patients, doctors and lab stakeholders (built during my internship).
+- 5+ responsive UI modules for appointment booking and diagnostic test scheduling across 3 user roles
+- Standardized components, ~60% fewer layout inconsistencies
+- Integrated REST APIs and resolved 15+ UI-API issues before release
+- **Tech:** React.js · Next.js · Tailwind CSS
+- 🔒 Company project (source is private)
+
+### 🤖 School ERP Assistant – RAG Chatbot *(in progress)*
+A chatbot that answers parent and teacher questions from attendance, fee and notice data.
+- **Planned tech:** Python (FastAPI) · PostgreSQL + pgvector · LLM API · React
+- 🚧 Coming soon
 
 ---
 
